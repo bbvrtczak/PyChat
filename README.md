@@ -1,7 +1,7 @@
-#Chat Application
+<h1>Chat Application</h1>
 This is a simple chat application that allows multiple clients to connect to a server and communicate with each other.
 
-#Getting Started
+<h1>Getting Started</h1>
 Follow these steps:
 
 1. Clone this repository to your local machine.
@@ -12,7 +12,7 @@ Follow these steps:
 6. Start chatting! You can send messages to other clients by typing in the client console and pressing Enter.
 7. You can disconnect using the 'exit' message.
 
-#Features
+<h1>Features</h1>
 Multiple clients can connect to the server and communicate with each other.
 The server sends a message to all clients when a new client joins the chat.
 The client shows the nickname of the sender before the message in the client console.
